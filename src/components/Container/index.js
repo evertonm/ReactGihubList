@@ -16,7 +16,7 @@ const Container = styled.div`
   }
 
   svg {
-    margin-right: 10px;
+    margin: 10px;
   }
 `;
 
